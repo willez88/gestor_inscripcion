@@ -1,0 +1,3 @@
+En los campos usuario y clave, ingresar los correspondientes a su mysql
+
+Se debe importar la base de datos (Escuela.sql) que esta en la carpeta mysql
